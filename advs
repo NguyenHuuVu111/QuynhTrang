@@ -1,16 +1,16 @@
 const CONFIG = {
     introTitle: 'Trang Ơiiii!',
-    introDesc: `Có cái này hay lắm này`,
-    btnIntro: 'Nhấn vào đây điii',
-    title: 'Nguyễn Quỳnh Trang tao thích màyyyyyy',
-    desc: 'Đồng ý làm bạn gái tao nhaa? ',
+    introDesc: `Chúc mừng sinh nhật em nhó <3`,
+    btnIntro: 'Muốn lấy quà thì nhấn vào đây đii',
+    title: 'Có lẽ món quà đáng giá nhất dành cho m ngày hôm nay là t đấy',
+    desc: 'Đồng ý nhận món quà này nhaa? ',
     btnYes: 'okii luôn nhó <3',
     btnNo: 'Không :(',
-    question:'T biết m cũng thích t mà đúng kh?',
+    question:'Có muốn nói gì với t nữa khongg??',
     btnReply: 'Nhập vào đây...',
-    reply: 'tao cũng thích mày <33333',
+    reply: 'TAO THÍCH MÀY <33333',
     mess: 'Tao biết mà 🥰',
-    messDesc: 'Tối nay ngồi nói chuyện với tao nhá :vv.',
+    messDesc: 'Mai thi thật tốt nhá baee',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://https://www.facebook.com/NguyenHuuVu' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
